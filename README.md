@@ -1,6 +1,5 @@
 ### Hi there 👋
-[(https://github-readme-activity-graph.vercel.app/graph?username=jetjodh)]
-<!--
+[![jetjodh's github activity](https://github-readme-activity-graph.vercel.app/graph?username=jetjodh)](https://github.com/ashutosh00710/github-readme-activity-graph)<!--
 **jetjodh/jetjodh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
